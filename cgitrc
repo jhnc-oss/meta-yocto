@@ -1,0 +1,3 @@
+desc=Yocto Project integration layers (Poky distro configuration, reference hardware BSPs)
+section=-Yocto Metadata Layers - Autobuilder Tested
+hide=0
