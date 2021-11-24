@@ -1,3 +1,4 @@
 desc=Yocto Project integration layers (Poky distro configuration, reference hardware BSPs)
 section=-Yocto Metadata Layers - Autobuilder Tested
+readme=master:meta-poky/README.poky.md
 hide=0
